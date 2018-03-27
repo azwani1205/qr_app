@@ -1,2 +1,2 @@
 # qr_app
-repo for qr project
+repo for qr scanner app project
